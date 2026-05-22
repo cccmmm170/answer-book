@@ -23,7 +23,7 @@ html, body {
 }
 
 body {
-  font-family: 'Noto Serif SC', 'Playfair Display', serif;
+  font-family: "STSong", "SimSun", "Songti SC", "Microsoft YaHei", serif;
   background: var(--bg-dark);
   color: var(--text-light);
   -webkit-tap-highlight-color: transparent;
